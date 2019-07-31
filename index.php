@@ -12,6 +12,12 @@ h1 {
 p {
   color:white;
     }
+.header {
+  padding: 60px;
+  text-align: center;
+  background: black;
+  color: white;
+    }
   </style>
   <div class="header">
     <h1>Header</h1>
