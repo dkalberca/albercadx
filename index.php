@@ -13,8 +13,10 @@ p {
   color:white;
     }
   </style>
-  <center><h1>Hello World</h1></center>
-  <body>
-    <center><p>Hello World</p></center>
+  <div class="header">
+    <h1>Header</h1>
+    <p>My supercool header</p>
+  </div>
+   <center><p>Hello World</p></center>
   </body>
 </html>
