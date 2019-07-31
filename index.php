@@ -19,10 +19,15 @@ p {
   color: white;
     }
   </style>
+  <main>
   <div class="header">
-    <h1>Header</h1>
-    <p>My supercool header</p>
+    <h1>Hello World</h1>
+    <h2><p>Hello World by Alberca, D.X.</p></h2>
   </div>
    <center><p>Hello World</p></center>
+  <footer>
+    <p>hello world:<a href="https://giphy.com/gifs/html5-pLiyRPqPyxy7e">hello world</a>
+  </footer>
+  </main>
   </body>
 </html>
