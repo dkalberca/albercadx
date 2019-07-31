@@ -12,6 +12,7 @@ h1 {
 p {
   color:white;
     }
+  </style>
   <center><h1>Hello World</h1></center>
   <body>
     <center><p>Hello World</p></center>
